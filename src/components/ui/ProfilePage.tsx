@@ -51,7 +51,7 @@ const ProfilePage: React.FC = () => {
                 alt="Profile"
                 className="w-full h-full rounded-full object-cover border-4 border-blue-500 shadow-md"
               />
-              <button className="absolute bottom-0 right-0 bg-blue-500 text-white p-2 rounded-full shadow-md hover:bg-blue-600 transition">
+              <button className="absolute bottom-0 right-0 bg-blue-600 text-white p-2 rounded-full shadow-md hover:bg-blue-600 transition">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   fill="none"
